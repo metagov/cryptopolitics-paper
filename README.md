@@ -5,4 +5,6 @@ The [Cryptopolitical Typology Quiz](https://metagov.typeform.com/cryptopolitics)
 
 This repository contains both a CSV export of the relevant results and the Python code used to visualize the distribution of responses, investigate the importance of blockchain affiliation and self-reported political orientation, and assess the validity of our constructed political score and types against any axes or features that emerge from the data.
 
+To view the results, check out the two Jupyter notebooks in this repository, paste the links to them into [nbviewer](https://nbviewer.org/) for prettier in-browser viewing, or fork this repository and run them yourself!
+
 If you are interested in supporting ongoing work on the Cryptopolitics project, please get in touch with [josh@metagov.org](josh@metagov.org). To get involved with Metagov, join the Metagov [community](https://metagov.pubpub.org/) or [staff](https://opencollective.com/metagov).
