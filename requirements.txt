@@ -1,0 +1,9 @@
+airtable
+jupyter
+matplotlib
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+validators
